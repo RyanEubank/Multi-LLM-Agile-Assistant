@@ -54,5 +54,6 @@ cd ../client
 echo [*] Setting up client app...
 
 # Put setup for front end and React setup here...
+
 echo [+] Packages Installed successfully.
 echo [+] Client files installed.
